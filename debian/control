@@ -7,7 +7,7 @@ Build-Depends:
  dh-golang,
  dh-vci,
  dh-yang,
- golang-any,
+ golang-any:native,
  golang-github-danos-encoding-rfc7951-dev,
  golang-github-danos-utils-args-dev,
  golang-github-danos-vci-dev,
